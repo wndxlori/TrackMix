@@ -1,0 +1,84 @@
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+NSApplication
+NSApplication.sharedApplication
+NSApplication.sharedApplication.delegate
+NSApplication.sharedApplication.delegate.button
+NSApplication.sharedApplication.delegate.instance_variable_get('@button')
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 0
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 1
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 2
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 3
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 4
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 5
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 6
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 7
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 8
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 9
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 10
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 11
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 12
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 13
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 14
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 15
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 16
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 17
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 18
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 19
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 20
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 21
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 12
+NSApplication.sharedApplication.delegate.instance_variable_get('@button').bezelStyle = 11
+exit
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 1
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 2
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 3
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 4
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 5
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 1
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 0
+NSApplication.sharedApplication.delegate.instance_variable_get('@textField').bezelStyle = 1
+exit
+exit
+exit
+exit
+NSApplication.sharedApplication.delegate.instance_variable_get('@slider').intValue
+NSApplication.sharedApplication.delegate.instance_variable_get('@slider').intValue = 5
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exits
+exit
+exit
+exit
+exit
+exit
+rake
+exit
+rake
+exitr
+exit
+exit
